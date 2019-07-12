@@ -1,4 +1,4 @@
-package cymru.misell.spawn_uri_poc
+package cymru.misell.flutter_json_layout
 
 import android.os.Bundle
 
