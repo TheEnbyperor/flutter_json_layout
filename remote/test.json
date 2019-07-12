@@ -1,0 +1,11 @@
+{
+  "type": "Center",
+  "args": {
+    "child": {
+      "type": "Text",
+      "args": {
+        "data": "test"
+      }
+    }
+  }
+}
